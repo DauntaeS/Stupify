@@ -4,6 +4,7 @@
 - Erick Garcia
 - Dauntae Stewart
 - Evan Vanburen
+  
   Stupify - allows you to store all of your favorite artist's songs in one easy location.
   Stupify - music is life
   Stupify - express yourself.
